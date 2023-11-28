@@ -2,7 +2,7 @@
 
 This document specifies a Concise Binary Object Representation tag for representing data that is physically stored externally to the CBOR data item.
 
-Tag: TBD  
+Tag: 32,769  
 Data item: multiple  
 Semantics: External reference  
 Point of contact: Christopher Head <chead@chead.ca>  
